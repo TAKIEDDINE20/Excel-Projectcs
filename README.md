@@ -1,2 +1,2 @@
-# Excel-Projectcs
+# Excel-Projects
 Data analytics projects using Excel
