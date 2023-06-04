@@ -1,0 +1,6 @@
+Dinner fruits:
+Apple
+Banana
+Orange
+Strawberry
+Kiwi
